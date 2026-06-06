@@ -6,7 +6,6 @@ from pathlib import Path
 
 import requests
 from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeoutError
-print("HELLO I AM THE NEW SCRIPT")
 
 UPAY_URL = "https://upay.co.uk/app/"
 BOT_TOKEN = "8942122984:AAF-gW7AhfvCv65zqHwhMC2GYQt2-P9NB4I"
